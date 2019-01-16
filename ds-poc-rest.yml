@@ -1,0 +1,7 @@
+ds:
+  poc:
+    schema-registry:
+      customer:
+        attributes: businessType, companyName, channel
+      alert:
+        attributes:
