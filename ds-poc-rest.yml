@@ -2,6 +2,6 @@ ds:
   poc:
     schema-registry:
       customer:
-        attributes: businessType, companyName, channel
+        attributes: businessType, companyName
       alert:
         attributes:
